@@ -7,7 +7,7 @@ Created on Fri Apr  8 18:54:32 2016
 from twx.botapi import TelegramBot, ReplyKeyboardMarkup
 
 """
-Setup the bot
+Setup the bot 2
 """
 
 bot = TelegramBot('207164701:AAF_WoXS9fkYyYJW5y5lfM_XS1wpNDmKqwk')
